@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: blanchedalmond;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+  display: inline;
+  margin: 10px;
+}
+a {
+  text-decoration: none;
+  color: brown;
+}
+h1 {
+  box-sizing: border-box;
+  text-align: center;
+  padding: 30px;
+  font-size: 50px;
+  background-color: aqua;
+  color: rgb(141, 143, 144);
+  margin-bottom: 20px;
+  border-bottom: 5px solid rgb(141, 143, 144);
+}
+ul {
+  text-align: center;
+}
